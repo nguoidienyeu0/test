@@ -26,8 +26,7 @@
             <a href="http://go.microsoft.com/fwlink/?LinkId=245146">Learn more…</a>
         </li>
         <li class="two">
-            <h5>Add NuGet packages and jump-start your coding</h5>
-            NuGet makes it easy to install and update free libraries and tools.
+            111111111111111111111111111111111111111111111111
             <a href="http://go.microsoft.com/fwlink/?LinkId=245147">Learn more…</a>
         </li>
         <li class="three">
